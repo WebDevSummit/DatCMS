@@ -10,8 +10,8 @@ The Laravel framework has a few system requirements:
 * Mbstring PHP Extension
 
 ## Installation
-* Run ````composer install````
-* ````php artisan serve```
+* Install with `composer install`
+* Run with `php artisan serve`
 
 ### Additional Configuartion
 See Official Master [Laravel Framework documentation](http://laravel.com/docs/master/installation).
